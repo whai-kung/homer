@@ -1,4 +1,2 @@
-# Homer
-
-## Naming conventions
-all the file and folder name must be `kebab-case`
+# Naming convention
+check (here)[https://dart.dev/guides/language/effective-dart/style]
